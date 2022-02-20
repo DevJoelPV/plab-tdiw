@@ -1,4 +1,4 @@
-# plab-tdiw
+# Fake e-commerce
 
 Este proyecto es un trabajo universitario de la asignatura TDIW, tecnologias del desarrollo de internet y web, de la universidad
 autónoma de Barcelona. Consiste en simulación de una web full-stack de un e-commerce. En esta web puedes ver los productos de cada categoria,
